@@ -1,8 +1,8 @@
 {
   "name": "mypack-sahayak",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "this is mypack",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SahayakSharma/mypack/issues"
   },
-  "homepage": "https://github.com/SahayakSharma/mypack#readme"
+  "homepage": "https://github.com/SahayakSharma/mypack#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
